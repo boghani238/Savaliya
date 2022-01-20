@@ -1,1 +1,10 @@
-
+{
+  "data": [
+{
+      "admob_interstitial":"ca-app-pub-4820572099490810/3953885433",
+      "admob_native":"ca-app-pub-4820572099490810/2683884419",
+      "admob_banner":"ca-app-pub-4820572099490810/3738795843",
+      "ispurchaseItem":"1"
+}
+]
+}
